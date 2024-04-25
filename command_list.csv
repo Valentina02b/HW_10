@@ -1,0 +1,120 @@
+    1  desktop/
+    2  cd ../
+    3  cd QA35
+    4  clear
+    5  pwd
+    6  clear
+    7  clear
+    8  cd QA35
+    9  desktop/QA35
+   10  clear
+   11  touch test.txt
+   12  clear
+   13  vim text.txt
+   14  git clone https://github.com/Valentina02b/HW.giclear
+   15  cd /OneDrive/Рабочий стол/HW_10/HW_10
+   16  cd /OneDrive/Рабочий стол/HW_10/HW_10
+   17  clear
+   18  cd /OneDrive
+   19  cd'/c/Users/user/OneDrive/Рабочий стол/HW_10'
+   20  cd '/c/Users/user/OneDrive/Рабочий стол/HW_10
+   21  clear
+   22  cd /OneDrive/Рабочий стол/HW_10
+   23  cd /c/Users/
+   24  cd /OneDrive/Рабочий стол/HW_10/HW_10
+   25  cd c/Users/user/OneDrive/Рабочий стол/HW_10
+   26  clear
+   27  cd /c/Users/user/OneDrive/Рабочий стол/HW_10/HW_10/develop_test.txt
+   28  clear
+   29  cd '/c/Users/user/OneDrive/Рабочий стол/HW_10'
+   30  git clone https://github.com/Valentina02b/HW_10.git
+   31  cd HW_10
+   32  git config --global user.name "Valentyna Baranova"
+   33  git config --global user.email "Valja0210bar@gmail.com"
+   34  touch text_ignore.txt
+   35  ls -l
+   36  git status
+   37  git add text_ignore.txt
+   38  git status
+   39  echo text_ignore.txt > .gitignore
+   40  git add .
+   41  git commit -m "Task1"
+   42  git status
+   43  git commit -m "Task1"
+   44  cd '/c/Users/user/OneDrive/Рабочий стол/QA35'
+   45  git clone https://github.com/Valentina02b/HW_10.git
+   46  cd QA35
+   47  cd QA35
+   48  cd HW_10
+   49  cd '/c/Users/user/OneDrive/Рабочий стол/QA35'
+   50  git clone https://github.com/Valentina02b/HW_10.git
+   51  cd '/c/Users/user/OneDrive/Рабочий стол/QA35'
+   52  git clone https://github.com/Valentina02b/HW_10.git
+   53  cd HW_10
+   54  git config --global user.name "Valentyna Baranova"
+   55  git config --global user.email "Valja0210bar@gmail.com"
+   56  touch text_ignore.txt
+   57  ls -l
+   58  git status
+   59  git add text_ignore.txt
+   60  git status
+   61  git commit -m "Task1"
+   62  git push
+   63  echo text_ignore.txt > .gitignore
+   64  git add .
+   65  git commit -m "Task1"
+   66  touch main_test.txt
+   67  git add .
+   68  git commit -m "Task2"
+   69  git checkout -b develop
+   70  touch develop_test.txt
+   71  git add .
+   72  git commit -m "Task3"
+   73  echo someText > develop_test.txt
+   74  git status
+   75  git add .
+   76  git commit -m "Task3"
+   77  git checkout main
+   78  git merge develop
+   79  git log
+   80  git add .
+   81  git commit -m "Task5"
+   82  git push
+   83  cd '/c/Users/user/OneDrive/Рабочий стол/QA35'
+   84  git clone https://github.com/Valentina02b/HW_10.git
+   85  cd QA35
+   86  cd '/c/Users/user/OneDrive/Рабочий стол/QA35'
+   87  git clone https://github.com/Valentina02b/HW_10.git
+   88  cd '/c/Users/user/OneDrive/Рабочий стол/QA35'
+   89  git clone https://github.com/Valentina02b/HW_10.git
+   90  git clone https://github.com/Valentina02b/HW_10.git
+   91  cd '/c/Users/user/OneDrive/Рабочий стол/QA35'
+   92  git clone https://github.com/Valentina02b/HW_10.git
+   93  cd HW_10
+   94  git config --global user.name "Valentyna Baranova"
+   95  git config --global user.email "Valja0210bar@gmail.com"
+   96  touch text_ignore.txt
+   97  ls -l
+   98  git status
+   99  git add text_ignore.txt
+  100  git status
+  101  git commit -m "Task1"
+  102  git push
+  103  echo text_ignore.txt > .gitignore
+  104  git add .
+  105  git commit -m "Task1"
+  106  touch main_test.txt
+  107  git add .
+  108  git commit -m "Task2"
+  109  git checkout -b develop
+  110  touch develop_test.txt
+  111  git add .
+  112  git commit -m "Task3"
+  113  echo someText > develop_test.txt
+  114  git status
+  115  git add .
+  116  git commit -m "Task3"
+  117  git checkout main
+  118  git merge develop
+  119  git log
+  120  history > command_list.csv 
